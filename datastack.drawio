@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T01:47:53.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GyieU3eSPvs3E6wStPap" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T01:49:48.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hxzwJf9MMzcXH78t7j1b" version="24.4.4" type="github">
   <diagram name="ページ1" id="C2943G4_usYuksizt9p-">
     <mxGraphModel dx="369" dy="192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,12 +13,6 @@
         <mxCell id="VOp-TCvIxb22J5jqxmuV-15" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.335;entryY=0.016;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;elbow=vertical;entryPerimeter=0;exitX=0.331;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VOp-TCvIxb22J5jqxmuV-3" target="VOp-TCvIxb22J5jqxmuV-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VOp-TCvIxb22J5jqxmuV-19" style="edgeStyle=elbowEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1.018;exitY=0.762;exitDx=0;exitDy=0;exitPerimeter=0;elbow=vertical;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="489.31999999999994" y="169.23000000000002" as="sourcePoint" />
-            <mxPoint x="525" y="169.32384615384615" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VOp-TCvIxb22J5jqxmuV-3" value="Data storage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21C0A5;fontColor=#5C5C5C;strokeColor=#006658;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="240" height="130" as="geometry" />
         </mxCell>
@@ -28,8 +22,10 @@
         <mxCell id="VOp-TCvIxb22J5jqxmuV-4" value="Data integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21C0A5;fontColor=#5C5C5C;strokeColor=#006658;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="180" y="40" width="100" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="VOp-TCvIxb22J5jqxmuV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.64;entryY=1.021;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryPerimeter=0;exitX=0.646;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VOp-TCvIxb22J5jqxmuV-5" target="VOp-TCvIxb22J5jqxmuV-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VOp-TCvIxb22J5jqxmuV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.646;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VOp-TCvIxb22J5jqxmuV-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VOp-TCvIxb22J5jqxmuV-5" value="Data transformation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#21C0A5;fontColor=#5C5C5C;strokeColor=#006658;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingTop=0;spacingBottom=-19;" parent="1" vertex="1">
           <mxGeometry x="320" y="190" width="240" height="50" as="geometry" />
